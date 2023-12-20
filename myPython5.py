@@ -22,7 +22,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_______]
 *******************************************************************************
 ''')
-print("Welcome to Tresure Island.")
+print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 
 choice1 = input('You\'re at a crossed, where do you want to go? Type "left" or "right" ').lower()
